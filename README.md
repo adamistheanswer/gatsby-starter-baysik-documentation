@@ -10,7 +10,7 @@
 
 <h4 align="center">A starter for creating documentation / help sites using Gatsby.</h4>
 
-![Baysik Starter Gatsby](screen.png)
+![Baysik Starter Gatsby](gatsby-documentation-stater.png)
 
 ## Quick Start
 
