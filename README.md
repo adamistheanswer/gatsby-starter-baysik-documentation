@@ -3,12 +3,16 @@
   <a href="https://www.gatsbyjs.org">
    <img width="60" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg">
   </a>
+  
 </p>
 <h1 align="center">
   gatsby-starter-baysik-documentation
 </h1>
-
+<p align="center">
+  <a align="center" href="https://serene-mirzakhani-b98ebd.netlify.app/">netlify build</a></p>
 <h4 align="center">A starter for creating documentation / help sites using Gatsby.</h4>
+
+
 
 ![Baysik Starter Gatsby](gatsby-documentation-stater.png)
 
