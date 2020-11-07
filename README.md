@@ -20,7 +20,7 @@ Use the Gatsby CLI to create a new site, specifying the Baysik starter.
 
 ```sh
 # Create a new Gatsby site using the Baysik starter
-gatsby new baysik-blog https://github.com/adamistheanswer/gatsby-starter-baysik-documentation
+gatsby new baysik-documentation https://github.com/adamistheanswer/gatsby-starter-baysik-documentation
 ```
 
 [Official Gatsby Starter Page](https://www.gatsbyjs.org/starters/adamistheanswer/gatsby-starter-baysik-documentation/)
@@ -30,7 +30,7 @@ gatsby new baysik-blog https://github.com/adamistheanswer/gatsby-starter-baysik-
 Navigate into your new site’s directory and start it up.
 
 ```sh
-cd baysik-blog
+cd baysik-documentation
 gatsby develop
 ```
 
