@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-baysik-documentation",
   "description": "Gatsby Starter - Documentation Site",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Adam Robinson <adamistheanswer@gmail.com>",
   "homepage": "https://attackingpixels.com",
   "dependencies": {
