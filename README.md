@@ -5,10 +5,10 @@
   </a>
 </p>
 <h1 align="center">
-  gatsby-starter-baysik-blog
+  gatsby-starter-baysik-documentation
 </h1>
 
-<h4 align="center">A starter for creating documentation / help sites using Gatsby.</h4>
+<h4 align="center">A starter for creating documentation/help sites using Gatsby.</h4>
 
 ![Baysik Starter Gatsby](screen.png)
 
